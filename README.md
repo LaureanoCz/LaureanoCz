@@ -1,5 +1,5 @@
 <h1 align="center">🌌 Hola 🌌</h1>
-<h2 align="center">Soy Laureano y te doy la bienvenida a mi perfil de GitHub.</h2>
+<h2 align="center">Soy Laureano. Bienvenido a mi perfil de GitHub.</h2>
 <h3 align="center">Un estudiante de secundaria con un gran interés en el desarrollo web y la programación.</h3>
 
 <h3 align="center">Mis redes sociales:</h3>
