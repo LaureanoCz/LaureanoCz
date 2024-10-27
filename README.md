@@ -1,6 +1,5 @@
 <h1 align="center">🌌 Hola, soy Laureano. 🌌</h1>
-<h2 align="center">Bienvenido a mi perfil de GitHub.</h2>
-<h3 align="center">Soy un estudiante de secundaria con un gran interés en el desarrollo web y la programación.</h3>
+<h3 align="center">un estudiante de secundaria con un gran interés en el desarrollo web y la programación.</h3>
 
 <h3 align="center">Mis redes sociales:</h3>
 <p align="center">
@@ -9,10 +8,24 @@
 <a href="https://discord.gg/https://discord.gg/RrfeZRYD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RrfeZRYD" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h3 align="center">Lenguajes y Herramientas:</h3>
+<a href='https://github.com/LaureanoCz' target="_blank"><img alt='html5' src='https://img.shields.io/badge/HTML-100000?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=BA3E1B&color=E34F26'/></a>
+<a href='https://github.com/LaureanoCz' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS-100000?style=for-the-badge&logo=CSS3&logoColor=FFFFFF&labelColor=0E578C&color=1572B6'/></a>
+<a href='https://github.com/LaureanoCz' target="_blank"><img alt='tailwindcss' src='https://img.shields.io/badge/tailwind-100000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&labelColor=04A0BA&color=06B6D4'/></a>
+<a href='https://github.com/LaureanoCz' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/Javascript-100000?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=DAC51A&color=F7DF1E'/></a>
+<a href='https://github.com/LaureanoCz' target="_blank"><img alt='Astro' src='https://img.shields.io/badge/Astro-100000?style=for-the-badge&logo=Astro&logoColor=FFFFFF&labelColor=9C41C7&color=BC52EE'/></a>
+<a href='https://github.com/LaureanoCz' target="_blank"><img alt='' src='https://img.shields.io/badge/-100000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
+<a href='https://github.com/LaureanoCz' target="_blank"><img alt='python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=2C5E89&color=3776AB'/></a>
+<a href='https://github.com/LaureanoCz' target="_blank"><img alt='arduino' src='https://img.shields.io/badge/Arduino-100000?style=for-the-badge&logo=arduino&logoColor=FFFFFF&labelColor=007379&color=00878F'/></a>
+<a href='https://github.com/LaureanoCz' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/mysql-100000?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=376383&color=4479A1'/></a>
+<a href='https://github.com/LaureanoCz' target="_blank"><img alt='git' src='https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=CD4228&color=F05032'/></a>  
+<br>
+<br>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laureanocz&show_icons=true&locale=en&layout=compact" alt="laureanocz" /></p>
+  ![LaureanoCz's Stats](https://github-readme-stats.vercel.app/api?username=LaureanoCz&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
+  ![LaureanoCz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LaureanoCz&theme=blueberry&hide_border=false)
+  ![LaureanoCz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaureanoCz&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
+  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laureanocz&show_icons=true&locale=en" alt="laureanocz" /></p>
 
