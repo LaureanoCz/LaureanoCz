@@ -3,9 +3,8 @@
 
 <h3 align="center">Mis redes sociales:</h3>
 <p align="center">
-<a href="https://twitter.com/laucrranza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laucrranza" height="30" width="40" /></a>
-<a href="https://instagram.com/laure0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laure0_" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/RrfeZRYD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RrfeZRYD" height="30" width="40" /></a>
+<a href="https://twitter.com/laucrranza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laucrranza" height="30" width="30" /></a>
+<a href="https://instagram.com/laure0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laure0_" height="30" width="30" /></a>
 </p>
 
 <h3 align="center">Lenguajes y Herramientas:</h3>
